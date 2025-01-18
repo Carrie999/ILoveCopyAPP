@@ -1,5 +1,7 @@
 # ILoveCopyAPP
-## Project Links
+## Project Links 
+### [开发上线的iOS](https://apps.apple.com/us/developer/yajing-pang/id1745831534)
+#### 我开发上线的iOS源代码， SwiftUI 完整的源代码，随意下载学习上线，代码是我和 chatgpt/claude 一起完成的,大家不要售卖我的原代码，你可以上线
 
 - [LEDBanner GitHub](https://github.com/Carrie999/LEDBanner) | [LEDBanner iOS](https://apps.apple.com/us/app/led-banner-big-text/id6502876201)
 - [EdgeSnap GitHub](https://github.com/Carrie999/EdgeSnap) | [EdgeSnap iOS](https://apps.apple.com/us/app/edgesnap/id6504001857)
